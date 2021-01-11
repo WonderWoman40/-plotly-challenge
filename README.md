@@ -1,1 +1,1 @@
-# -plotly-challenge
+# plotly-challenge
